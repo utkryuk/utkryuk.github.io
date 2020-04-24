@@ -1,57 +1,47 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Utkarsh Gupta",
+    "label": "Student, Developer, Quizzer",
+    "picture": "https://utkryuk.github.io/template/images/molly.png",
+    "email": "utkryuk@gmail.com",
+    "phone": "",
+    "website": "https://utkryuk.github.io",
+    "summary": "I am an 3rd year undergraduate student at Birla Institute of Technology, Mesra pursuing Bachelor of Engineering(B.E.) in Information Technology.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "835215",
+      "city": "Ranchi",
+      "countryCode": "India",
+      "region": "Jharkhand"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "utkryuk",
+        "url": "http://github.com/utkryuk"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "utkarshgupta118",
+        "url": "http://linkedin.com/in/utkarshgupta118"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "utkryuk",
+        "url": "http://twitter.com/utkryuk"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Machine Learning/Deep Learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "AI",
+        "Reinforcement Learning"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Web Development",
       "keywords": [
       ]
     }
