@@ -6,7 +6,7 @@
     "email": "utkryuk@gmail.com",
     "phone": "",
     "website": "https://utkryuk.github.io",
-    "summary": "I am an 3rd year undergraduate student at Birla Institute of Technology, Mesra pursuing Bachelor of Engineering(B.E.) in Information Technology.",
+    "summary": "I am an Undergrad Student at Birla Institute of Technology, Mesra pursuing Bachelor of Engineering(B.E.) in Information Technology(2017-2021).",
     "location": {
       "address": "",
       "postalCode": "835215",
@@ -54,58 +54,69 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Tensorflow",
+        "JavaScript",
+        "Flask"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Birla Institute of Technology, Mesra",
+      "area": "Information Technology (expected Spring, 2021)",
+      "studyType": "B.E.",
+      "startDate": "2017-07-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "7.5",
       "courses": [
+        "Operating Systems",
+        "Computer Network and Security",
+        "Database Management Systems",
+        "Discrete Mathematics",
+        "Principles of Soft Computing"
       ]
     }
   ],
-  "work": [
+  "Internships/Trainings": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "company": "Crio.Do",
+      "position": "Student Developer",
+      "website": "https://criodo.github.io/Crio-Launch-Feb-2020-utkryuk/",
+      "startDate": "2020-02-01",
+      "endDate": "2020-04-15",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Acquired skills in Linux Commands, OS Concepts, Networking Concepts, Network Security, Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Applied Data Structures and Algorithms, String manipulation etc.",
+        "In Crio Launch, I build real products in a work-like environment called Micro-Experience, set up by Crio.Do"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "IIT INDORE",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2019-12-08",
+      "endDate": "2020-01-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+    {
+      "company": "StepUp Analytics",
+      "position": "Data Science Intern",
+      "website": "",
+      "startDate": "2019-12-01",
+      "endDate": "Present",
+      "summary": "The task is to research and work with the mentor on the selected topics, write creative web content that summarizes the matters well.",
+      "highlights": [
       ]
     }
   ],
