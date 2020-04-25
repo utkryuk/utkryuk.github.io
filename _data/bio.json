@@ -56,7 +56,6 @@
         "Java",
         "Python",
         "Tensorflow",
-        "JavaScript",
         "Flask"
       ]
     },
@@ -81,7 +80,7 @@
         "Operating Systems",
         "Computer Network and Security",
         "Database Management Systems",
-        "Discrete Mathematics",
+        "Discrete Mathematics and Graph Theory",
         "Principles of Soft Computing"
       ]
     }
@@ -93,7 +92,7 @@
       "website": "https://criodo.github.io/Crio-Launch-Feb-2020-utkryuk/",
       "startDate": "2020-02-01",
       "endDate": "2020-04-15",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
         "Acquired skills in Linux Commands, OS Concepts, Networking Concepts, Network Security, Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Applied Data Structures and Algorithms, String manipulation etc.",
         "In Crio Launch, I build real products in a work-like environment called Micro-Experience, set up by Crio.Do"
