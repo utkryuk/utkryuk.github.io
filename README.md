@@ -1,4 +1,3 @@
-# Portfolio
+# My Portfolio
 
-This repository hosts my technical [portfolio](http://utkryuk.github.io). 
-
+This is the repository for [my portfolio](https://utkryuk.github.io).
