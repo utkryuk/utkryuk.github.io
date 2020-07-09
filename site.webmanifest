@@ -1,10 +1,10 @@
 {
     "icons": [{
-      "src": "img/icon.png",
+      "src": "img/icon.jpg",
       "sizes": "32x32",
       "type": "image/png"
     },{
-        "src": "img/icon-192.png",
+        "src": "img/icon-192.jpg",
         "sizes": "192x192",
         "type": "image/png"
     }],
