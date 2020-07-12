@@ -176,193 +176,7 @@ title: Web App for Digit Recognition
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
-  <div class="container">
-
-    
-      <a class="navbar-brand" href="/">Utkarsh Gupta</a>
-          
-
-    
-    <div class="collapse navbar-collapse" id="navbar">
-
-      
-      
-      <ul class="navbar-nav mr-auto">
-        
-
-        
-  
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about">
-            
-            <span>Home</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#experience">
-            
-            <span>Experience</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#accomplishments">
-            
-            <span>Accomplishments</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications">
-            
-            <span>Publications</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts">
-            
-            <span>Posts</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-      
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
-      </ul>
-
-    </div>
-  </div>
-</nav>
+{% include header.html %}
 
 
   <article class="article" itemscope itemtype="http://schema.org/Article">
@@ -391,12 +205,6 @@ title: Web App for Digit Recognition
   
 
   
-    
-
-
-
-<meta content="2020-07-13 14:34:35 &#43;0800 &#43;08" itemprop="datePublished">
-<meta content="2020-08-13 14:34:35 &#43;0800 &#43;08" itemprop="dateModified">
 
 <div class="article-metadata">
   
@@ -412,42 +220,7 @@ title: Web App for Digit Recognition
   <a href="/project/Digit-Recognizer/#disqus_thread"></a>
   
 
-  
-  
-
-  
-    
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-        href = "https://twitter.com/share?url=https://utkryuk.github.io/project/Digit-Recognizer/&amp;text=Checkout%20this%20cool%20Web%20App&amp;hashtags=machinelearning" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https://utkryuk.github.io/project/Digit-Recognizer/"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://utkryuk.github.io/project/Digit-Recognizer/&amp;title=Web%20App%20for%20Digit%20Recognition"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Web%20App%20for%20Digit%20Recognition&amp;body=https://utkryuk.github.io/project/Digit-Recognizer/">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
+  {% include share.html url="https://utkryuk.github.io/project/Digit-Recognizer/"  title="Web%20App%20for%20Digit%20Recognition" %}
 
 </div>
 
@@ -459,59 +232,37 @@ title: Web App for Digit Recognition
   <div class="article-container">
 
 
+
+
+
+
     
 
-
-
-    
+    <div class="article-style" itemprop="articleBody">
       
 
+<p>I have been very interested in the interplay between vision and natural language for some time. In these years, an emerging research topic combined these two areas. That is, visual question answering (VQA). Recently, I made a dive into this topic and wrote some notes as you are reading now.</p>
 
 
+<div style="text-align:center"><img src="vqabot.png" width="100%" /></div>
 
 
+<blockquote>
+<p>in 1966, Marvin Minsky at MIT asked his undergraduate student Gerald Jay Sussman to spend the summer linking a camera to a computer and getting the computer to describe what it saw</p>
+</blockquote>
 
 
+<h2 id="breaking-down-vqa">Breaking down VQA</h2>
 
-  
+<h2 id="references">References</h2>
 
-
-
-
-
-  
-  
-  
-    
-  
-  
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-    
-      
-      <img class="portrait mr-3" src="/img/author_icon.jpg" itemprop="image" alt="Avatar">
-    
-
-    <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://utkryuk.github.io">Utkarsh Gupta</a></h5>
-      <h6 class="card-subtitle">CS Fanatic</h6>
-      <ul class="network-icon" aria-hidden="true">    
-          <li>
-            <a itemprop="sameAs" href="https://github.com/utkryuk" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-    
-          <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/in/utkarshgupta118/" target="_blank" rel="noopener">
-              <i class="fab fa-linkedin"></i>
-            </a>
-          </li>
-        
-      </ul>
     </div>
-  </div>
+
+    
 
 
+    
+  {% include author.html %}
 
       
       
