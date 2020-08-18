@@ -1,1 +1,4 @@
 analytics-google: "G-4CPR1KWWGE"
+
+exclude:
+    [".travis.yml", "README.md", "Gemfile", "Gemfile.lock"]
